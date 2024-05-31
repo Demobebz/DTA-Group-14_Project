@@ -1,10 +1,10 @@
 # **DTA-GROUP-14_PROJECT**
-## **Fashion Decisions For Hills Vogue Stores Based On Various Categories**
+## **Fashion Decisions For Hillz Vogue Stores Based On Various Categories**
 ---
 Creating a data representation report on fashion decisions involving collecting, analyzing, and visualizing data related to fashion brands, consumer preferences, purchasing behaviour, and other relevant factors.
 ### **Objective**
 ---
-To explain the preference of consumers in purchasing goods and help Hills Vogue Clothing Stores in deciding what fashion goods to stock more and what fashion goods to stock less.
+To explain the preference of consumers in purchasing goods and help Hillz Vogue Clothing Stores in deciding what fashion goods to stock more and what fashion goods to stock less.
 ### **Data Collection**
 ---
 - **Sources**: The data was collected from online surveys, retail sales data and social media platforms.
@@ -28,10 +28,10 @@ To explain the preference of consumers in purchasing goods and help Hills Vogue 
 - **Future Trends**: With this analysis, it can be predicted that Nike would sell well in jean & shoe items; Adidas would sell well in dress & T-shirt items and Gucci would sell well in sweater items.
 ### **Recommendations**
 ---
-For Hills Vogue Clothing Stores to make better sales moving forward, they should stock more of medium (M) sized Zara items for men's category, extra large (XL) sized Adidas items for women's category and medium (M) sized Nike items for kid's category.
+For Hillz Vogue Clothing Stores to make better sales moving forward, they should stock more of medium (M) sized Zara items for men's category, extra large (XL) sized Adidas items for women's category and medium (M) sized Nike items for kid's category.
 ### **Conclusion**
 ---
-This structured approach has ensured a comprehensive analysis and clear presentation of fashion decisions, hereby, aiding Hills Vogue Clothing Stores in making better informed decisions.
+This structured approach has ensured a comprehensive analysis and clear presentation of fashion decisions, hereby, aiding Hillz Vogue Clothing Stores in making better informed decisions.
 
 
 
